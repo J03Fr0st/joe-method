@@ -10,3 +10,7 @@
 
 - service-setup: Create Azure DevOps service utilities (auth, remote parsing, REST helpers).
 - tool-integration: Register the new MCP tool and wire it to the service helpers.
+
+## Future Enhancements
+
+See `docs/azure-devops-reviewer-features.md` for a running list of feature ideas such as auto triage, status updates, review metrics, diff highlighting, and more.
